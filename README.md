@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 - 🔭 I’m currently working on exciting projects in **[Your Field/Industry]**
 - 🌱 I’m currently learning **[Technologies or Skills]**
-- 👯 I’m looking to collaborate on **[Projects or Ideas]**
+- 👯 I’m looking to collaborate on **Game Development or Mobile Apps**
 - 💬 Ask me about **Web Development and Game Development or Cloud Computing is Mobile App Development me Open Source Contribution**
 - 📫 How to reach me: **3427560235@qq.com**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
 
 ## 🛠️ Technologies & Tools
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Ajwyunsx&fontSize=70)
