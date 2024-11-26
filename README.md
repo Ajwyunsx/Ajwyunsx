@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 - 🌱 I’m currently learning **[Technologies or Skills]**
 - 👯 I’m looking to collaborate on **Game Development or Mobile Apps**
 - 💬 Ask me about **Web Development and Game Development or Cloud Computing is Mobile App Development me Open Source Contribution**
-- 📫 How to reach me: **3427560235@qq.com**
+- 📫 How to reach me: **ajwwk89@qq.com**
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under a minute!**
 
 ## 🛠️ Technologies & Tools
